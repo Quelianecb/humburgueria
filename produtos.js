@@ -7,4 +7,7 @@ const menuOptions = [
     {name:'Frango', price:30, vegan:false, src:'./img/frango1.jpg'},
     {name:'Vegano frango', price:40, vegan:true, src:'./img/vegano2.jpg'},
     {name:'Cachorro-quente', price:30, vegan:false, src:'./img/cachorro-quente.jpg'},
+    {name:'x-calabreza', price:30, vegan:false, src:'./img/calabreza.jpg'},
+    {name:'x-egg', price:45.00, vegan:false, src:'./img/egg.jpg'},
+    {name:'X-cheddar', price:35, vegan:false, src:'./img/cheddar.jpg'},
 ]

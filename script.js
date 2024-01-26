@@ -19,7 +19,7 @@ function showAll(produtosArrays) {
         myLi += `<li>
     <img src=${produtos.src}>
             <p>${produtos.name}</p>
-                <p class="item-price"> ${(produtos.price)}</p>
+                <p class="item-price">R$ ${(produtos.price)}</p>
         </li>`
     })
 
